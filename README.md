@@ -2,9 +2,6 @@
 
 <div align="center">
 
-  ![Linkedin Badge](https://img.shields.io/badge/-Brandon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brandon-bondig-930584178/)
-</div>
-
 <br>
 
 <p align="center">
